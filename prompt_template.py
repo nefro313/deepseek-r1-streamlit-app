@@ -9,6 +9,6 @@ Diagnose Issues: Pinpoint inefficiencies (e.g., time/space complexity, redundanc
 
 Optimize Strategically: Propose optimizations with trade-offs and reasoning.
 
-Generate Refined Code: Provide rewritten code in the detected language.
+Generate Refined Code: Provide rewritten code in the  detected language.
 
 Use step-by-step reasoning (e.g., Chain of Thought) and adapt explanations to the detected language. Prioritize optimizations that align with the language’s best practices.Always respond in English."""
